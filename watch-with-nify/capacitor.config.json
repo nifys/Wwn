@@ -1,0 +1,6 @@
+{
+  "appId": "com.nify.watch",
+  "appName": "Watch with NIFY",
+  "webDir": "dist",
+  "server": { "androidScheme": "https" }
+}
